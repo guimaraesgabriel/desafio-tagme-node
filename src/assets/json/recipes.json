@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "606f474ffde4170a1c004cc3"
+    },
+    "Name": "Arroz de Mariscos para 2 pessoas",
+    "Description": "Arroz com camarão, lula, peixe, lagosta, e mexilhão, refogado com pimentões e cebola juliene, temperos e um leve toque de açafrão. Servidos na paellera. Rico em sabor e apresentação.",
+    "ImageURL": "prato-arroz-marisco-peq.jpg",
+    "PreparationTime": 25,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606f5e304f945851280b7c87"
+    },
+    "Name": "Moqueca Tropical",
+    "Description": "Escolha entre Camarão ou Peixe ou a combinação dos dois | De origem indígena. A moqueca é um cozido de peixe ou camarão ou com mistura de peixe e camarão com tomate, cebola, pimentões e cheiro-verde refogados. Leve toque de azeite de dendê e leite de coco natural. Na versão tropical, acrescentamos manga e abacaxi. Acompanha arroz branco, pirão de camarão e farofa de dendê.",
+    "ImageURL": "prato-moqueca-peq.jpg",
+    "PreparationTime": 40,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606f5ea54f945851280b7c88"
+    },
+    "Name": "Frutos do Mar ao Azeite de Ervas",
+    "Description": "Para apreciadores de frutos do mar, com leve aroma de azeite de ervas finas. Mexilhões, polvo, peixe, camarão e lula salteados com azeite, champignon, cebola picada,pimentão, alho, alcaparras e brócolis. Servidos com arroz de brócolis e legumes salteados.",
+    "ImageURL": "prato-fruto-peq.jpg",
+    "PreparationTime": 30,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606f5ed04f945851280b7c89"
+    },
+    "Name": "Massa espaguete à Italiana",
+    "Description": "Espaguete italiano coberto com mexilhões, lula, polvo, camarões, salteados no azeite com alho, cebola, molho de tomates frescos e manjericão.",
+    "ImageURL": "prato-massa-peq.jpg",
+    "PreparationTime": 18,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606f5ef04f945851280b7c8a"
+    },
+    "Name": "Bobó de Lagosta",
+    "Description": "De origem indígena com toques cearenses. Esta moqueca de lagosta é feita com verduras refogadas acrescidas de leite de coco, azeite de dendê e coentro. Acompanha arroz branco, pirão de camarão e farofa de dendê.",
+    "ImageURL": "prato-bobo-peq.jpg",
+    "PreparationTime": 50,
+    "__v": 0
+  }
+]
